@@ -23,6 +23,7 @@ h5,
 h6,
 p {
     color: #fff;
+    text-shadow: 0 0 10px #000;
 }
 
 p {
